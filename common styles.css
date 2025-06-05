@@ -6,6 +6,9 @@
     aspect-ratio: 375/220;
     overflow: hidden;
 }
+.page-hero-container .home-button{
+        animation:bounceAnimation 3s linear infinite alternate;
+    }
 .page-hero-container .img-container,.page-hero-container img{
     width: 100%;
     height: 100%;
